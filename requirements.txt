@@ -1,0 +1,10 @@
+# PyTorch は CUDA 版を別途インストール:
+#   pip install torch --index-url https://download.pytorch.org/whl/cu128
+torch>=2.5
+numpy
+datasets
+huggingface_hub
+pyarrow
+sentencepiece
+gguf>=0.17
+tqdm

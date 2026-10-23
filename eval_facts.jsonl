@@ -1,0 +1,100 @@
+{"lang": "ja", "cat": "首都", "prompt": "日本の首都は", "answers": ["東京", "東京都"]}
+{"lang": "ja", "cat": "首都", "prompt": "フランスの首都は", "answers": ["パリ"]}
+{"lang": "ja", "cat": "首都", "prompt": "イギリスの首都は", "answers": ["ロンドン"]}
+{"lang": "ja", "cat": "首都", "prompt": "イタリアの首都は", "answers": ["ローマ"]}
+{"lang": "ja", "cat": "首都", "prompt": "ドイツの首都は", "answers": ["ベルリン"]}
+{"lang": "ja", "cat": "首都", "prompt": "ロシアの首都は", "answers": ["モスクワ"]}
+{"lang": "ja", "cat": "首都", "prompt": "中国の首都は", "answers": ["北京"]}
+{"lang": "ja", "cat": "首都", "prompt": "大韓民国の首都は", "answers": ["ソウル"]}
+{"lang": "ja", "cat": "首都", "prompt": "スペインの首都は", "answers": ["マドリード", "マドリッド"]}
+{"lang": "ja", "cat": "首都", "prompt": "エジプトの首都は", "answers": ["カイロ"]}
+{"lang": "ja", "cat": "首都", "prompt": "アメリカ合衆国の首都は", "answers": ["ワシントン", "ワシントンD.C."]}
+{"lang": "ja", "cat": "首都", "prompt": "オーストラリアの首都は", "answers": ["キャンベラ"]}
+{"lang": "ja", "cat": "県庁所在地", "prompt": "北海道の道庁所在地は", "answers": ["札幌市", "札幌"]}
+{"lang": "ja", "cat": "県庁所在地", "prompt": "愛知県の県庁所在地は", "answers": ["名古屋市", "名古屋"]}
+{"lang": "ja", "cat": "県庁所在地", "prompt": "福岡県の県庁所在地は", "answers": ["福岡市"]}
+{"lang": "ja", "cat": "県庁所在地", "prompt": "宮城県の県庁所在地は", "answers": ["仙台市", "仙台"]}
+{"lang": "ja", "cat": "県庁所在地", "prompt": "広島県の県庁所在地は", "answers": ["広島市"]}
+{"lang": "ja", "cat": "県庁所在地", "prompt": "沖縄県の県庁所在地は", "answers": ["那覇市", "那覇"]}
+{"lang": "ja", "cat": "県庁所在地", "prompt": "石川県の県庁所在地は", "answers": ["金沢市", "金沢"]}
+{"lang": "ja", "cat": "県庁所在地", "prompt": "兵庫県の県庁所在地は", "answers": ["神戸市", "神戸"]}
+{"lang": "ja", "cat": "地理", "prompt": "日本で最も高い山は", "answers": ["富士山"]}
+{"lang": "ja", "cat": "地理", "prompt": "日本で最も長い川は", "answers": ["信濃川"]}
+{"lang": "ja", "cat": "地理", "prompt": "日本最大の湖は", "answers": ["琵琶湖"]}
+{"lang": "ja", "cat": "地理", "prompt": "世界で最も高い山は", "answers": ["エベレスト"]}
+{"lang": "ja", "cat": "地理", "prompt": "世界で最も面積の大きい国は", "answers": ["ロシア"]}
+{"lang": "ja", "cat": "歴史", "prompt": "江戸幕府を開いたのは", "answers": ["徳川家康"]}
+{"lang": "ja", "cat": "歴史", "prompt": "鎌倉幕府を開いたのは", "answers": ["源頼朝"]}
+{"lang": "ja", "cat": "歴史", "prompt": "室町幕府を開いたのは", "answers": ["足利尊氏"]}
+{"lang": "ja", "cat": "歴史", "prompt": "織田信長が家臣の明智光秀に討たれたのは", "answers": ["本能寺の変"]}
+{"lang": "ja", "cat": "歴史", "prompt": "第二次世界大戦が終結したのは", "answers": ["1945年"]}
+{"lang": "ja", "cat": "歴史", "prompt": "明治時代の前の時代は", "answers": ["江戸時代"]}
+{"lang": "ja", "cat": "歴史", "prompt": "平成の次の元号は", "answers": ["令和"]}
+{"lang": "ja", "cat": "歴史", "prompt": "昭和の次の元号は", "answers": ["平成"]}
+{"lang": "ja", "cat": "歴史", "prompt": "アメリカ合衆国の初代大統領は", "answers": ["ジョージ・ワシントン"]}
+{"lang": "ja", "cat": "人物", "prompt": "相対性理論を提唱したのは", "answers": ["アインシュタイン", "アルベルト・アインシュタイン"]}
+{"lang": "ja", "cat": "人物", "prompt": "万有引力の法則を発見したのは", "answers": ["ニュートン", "アイザック・ニュートン"]}
+{"lang": "ja", "cat": "人物", "prompt": "進化論を提唱したのは", "answers": ["ダーウィン", "チャールズ・ダーウィン"]}
+{"lang": "ja", "cat": "人物", "prompt": "電話を発明したのは", "answers": ["グラハム・ベル", "アレクサンダー・グラハム・ベル", "ベル"]}
+{"lang": "ja", "cat": "人物", "prompt": "『源氏物語』の作者は", "answers": ["紫式部"]}
+{"lang": "ja", "cat": "人物", "prompt": "『枕草子』の作者は", "answers": ["清少納言"]}
+{"lang": "ja", "cat": "人物", "prompt": "『坊っちゃん』の作者は", "answers": ["夏目漱石"]}
+{"lang": "ja", "cat": "人物", "prompt": "『羅生門』の作者は", "answers": ["芥川龍之介"]}
+{"lang": "ja", "cat": "科学", "prompt": "水の化学式は", "answers": ["H2O", "H₂O"]}
+{"lang": "ja", "cat": "科学", "prompt": "太陽系で最も大きい惑星は", "answers": ["木星"]}
+{"lang": "ja", "cat": "科学", "prompt": "太陽系で最も太陽に近い惑星は", "answers": ["水星"]}
+{"lang": "ja", "cat": "科学", "prompt": "地球の唯一の衛星は", "answers": ["月"]}
+{"lang": "ja", "cat": "その他", "prompt": "日本の通貨は", "answers": ["円", "日本円"]}
+{"lang": "ja", "cat": "その他", "prompt": "アメリカ合衆国の通貨は", "answers": ["ドル", "米ドル", "アメリカ合衆国ドル"]}
+{"lang": "ja", "cat": "その他", "prompt": "日本の国歌は", "answers": ["君が代", "「君が代」", "『君が代』"]}
+{"lang": "ja", "cat": "その他", "prompt": "ブラジルの公用語は", "answers": ["ポルトガル語"]}
+{"lang": "en", "cat": "capital", "prompt": "The capital of France is", "answers": [" Paris"]}
+{"lang": "en", "cat": "capital", "prompt": "The capital of Japan is", "answers": [" Tokyo"]}
+{"lang": "en", "cat": "capital", "prompt": "The capital of Germany is", "answers": [" Berlin"]}
+{"lang": "en", "cat": "capital", "prompt": "The capital of Italy is", "answers": [" Rome"]}
+{"lang": "en", "cat": "capital", "prompt": "The capital of Spain is", "answers": [" Madrid"]}
+{"lang": "en", "cat": "capital", "prompt": "The capital of Russia is", "answers": [" Moscow"]}
+{"lang": "en", "cat": "capital", "prompt": "The capital of China is", "answers": [" Beijing"]}
+{"lang": "en", "cat": "capital", "prompt": "The capital of Canada is", "answers": [" Ottawa"]}
+{"lang": "en", "cat": "capital", "prompt": "The capital of Australia is", "answers": [" Canberra"]}
+{"lang": "en", "cat": "capital", "prompt": "The capital of Egypt is", "answers": [" Cairo"]}
+{"lang": "en", "cat": "capital", "prompt": "The capital of the United Kingdom is", "answers": [" London"]}
+{"lang": "en", "cat": "capital", "prompt": "The capital of India is", "answers": [" New Delhi"]}
+{"lang": "en", "cat": "capital", "prompt": "The capital of Brazil is", "answers": [" Brasília", " Brasilia"]}
+{"lang": "en", "cat": "capital", "prompt": "The capital of South Korea is", "answers": [" Seoul"]}
+{"lang": "en", "cat": "capital", "prompt": "The capital of Mexico is", "answers": [" Mexico City"]}
+{"lang": "en", "cat": "capital", "prompt": "The capital of Turkey is", "answers": [" Ankara"]}
+{"lang": "en", "cat": "capital", "prompt": "The capital of Argentina is", "answers": [" Buenos Aires"]}
+{"lang": "en", "cat": "capital", "prompt": "The capital of Kenya is", "answers": [" Nairobi"]}
+{"lang": "en", "cat": "capital", "prompt": "The capital of Greece is", "answers": [" Athens"]}
+{"lang": "en", "cat": "capital", "prompt": "The capital of Ireland is", "answers": [" Dublin"]}
+{"lang": "en", "cat": "person", "prompt": "The theory of relativity was developed by", "answers": [" Albert Einstein"]}
+{"lang": "en", "cat": "person", "prompt": "The telephone was invented by", "answers": [" Alexander Graham Bell"]}
+{"lang": "en", "cat": "person", "prompt": "Romeo and Juliet was written by", "answers": [" William Shakespeare"]}
+{"lang": "en", "cat": "person", "prompt": "Hamlet is a tragedy written by", "answers": [" William Shakespeare"]}
+{"lang": "en", "cat": "person", "prompt": "The first President of the United States was", "answers": [" George Washington"]}
+{"lang": "en", "cat": "person", "prompt": "The Mona Lisa was painted by", "answers": [" Leonardo da Vinci"]}
+{"lang": "en", "cat": "person", "prompt": "The theory of evolution by natural selection was proposed by", "answers": [" Charles Darwin"]}
+{"lang": "en", "cat": "person", "prompt": "The law of universal gravitation was formulated by", "answers": [" Isaac Newton"]}
+{"lang": "en", "cat": "person", "prompt": "The first person to walk on the Moon was", "answers": [" Neil Armstrong"]}
+{"lang": "en", "cat": "person", "prompt": "Microsoft was founded by Bill Gates and", "answers": [" Paul Allen"]}
+{"lang": "en", "cat": "science", "prompt": "The largest planet in the Solar System is", "answers": [" Jupiter"]}
+{"lang": "en", "cat": "science", "prompt": "The closest planet to the Sun is", "answers": [" Mercury"]}
+{"lang": "en", "cat": "science", "prompt": "The chemical symbol for gold is", "answers": [" Au"]}
+{"lang": "en", "cat": "science", "prompt": "The chemical formula for water is", "answers": [" H2O"]}
+{"lang": "en", "cat": "geography", "prompt": "The highest mountain in the world is", "answers": [" Mount Everest", " Everest"]}
+{"lang": "en", "cat": "geography", "prompt": "The largest ocean on Earth is the", "answers": [" Pacific Ocean", " Pacific"]}
+{"lang": "en", "cat": "geography", "prompt": "The longest river in Africa is the", "answers": [" Nile"]}
+{"lang": "en", "cat": "geography", "prompt": "The largest country in the world by area is", "answers": [" Russia"]}
+{"lang": "en", "cat": "other", "prompt": "The currency of Japan is the", "answers": [" yen", " Japanese yen"]}
+{"lang": "en", "cat": "other", "prompt": "The official language of Brazil is", "answers": [" Portuguese"]}
+{"lang": "en", "cat": "history", "prompt": "World War II ended in", "answers": [" 1945"]}
+{"lang": "en", "cat": "history", "prompt": "World War I began in", "answers": [" 1914"]}
+{"lang": "en", "cat": "history", "prompt": "The French Revolution began in", "answers": [" 1789"]}
+{"lang": "en", "cat": "history", "prompt": "The United States Declaration of Independence was adopted in", "answers": [" 1776"]}
+{"lang": "en", "cat": "history", "prompt": "The Berlin Wall fell in", "answers": [" 1989"]}
+{"lang": "en", "cat": "history", "prompt": "The first atomic bomb used in war was dropped on", "answers": [" Hiroshima"]}
+{"lang": "en", "cat": "history", "prompt": "The Titanic sank in", "answers": [" 1912"]}
+{"lang": "en", "cat": "landmark", "prompt": "The Great Wall is located in", "answers": [" China"]}
+{"lang": "en", "cat": "landmark", "prompt": "The Eiffel Tower is located in", "answers": [" Paris"]}
+{"lang": "en", "cat": "landmark", "prompt": "The Statue of Liberty is located in", "answers": [" New York", " New York City"]}

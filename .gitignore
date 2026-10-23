@@ -1,0 +1,26 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Downloaded / generated data (Wikipedia Parquet, tokenizer, token binaries)
+data/
+data_gemma/
+smoke/
+demo/
+
+# Training outputs
+out/
+out_gemma/
+smoke/
+demo/
+
+# Model files (anywhere)
+*.pt
+*.gguf
+
+# Logs
+*.log
+
+# llama.cpp binaries and shortcuts
+*.zip
